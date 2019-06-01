@@ -104,4 +104,4 @@ Once you have added the **ReactiveBase** component, you can get started with add
 * Result specific components can be found
 [here](/result-components/resultlist.html).
 
-You can read more about when to use which components in the overview guide [here](/getting-started/ComponentsIndex.html).
+You can read more about when to use which components in the overview guide [here](/getting-started/ComponentsIndex.md).
